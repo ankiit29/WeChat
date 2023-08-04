@@ -1,10 +1,11 @@
-import React from 'react'
-import Register from './pages/Register'
+import React from 'react';
+import Home from './pages/Home';
+import "./style.scss"
 
 function App() {
   return (
-    <Register/>
+    <Home/>
   )
 }
 
-export default App
+export default App;
